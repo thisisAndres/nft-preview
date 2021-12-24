@@ -1,0 +1,108 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit'
+}
+
+h3{
+  color: hsl(0, 0%, 100%);
+}
+
+p{
+  color: hsl(215, 51%, 70%);
+
+}
+hr{
+  width: 85%;
+  height: 2px;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  border-color: hsl(215, 32%, 27%);
+}
+
+.middle {
+  border-radius: 20px;
+  background-color: hsl(216, 50%, 16%);
+  margin: 100px auto 100px auto;
+  width: 340px;
+  height: 600px;
+  text-align: center;
+}
+
+.img-equilibrium {
+  border-radius: 20px;
+  margin-top: 30px;
+  height: 280px;
+  width: 280px;
+  background: none;
+}
+.text-1{
+  text-align: left;
+  margin-left: 31px
+}
+.text-1:hover{
+  color: hsl(178, 100%, 50%);
+}
+
+.text-2{
+  text-align: left;
+  margin-left: 31px;
+  margin-right: 31px;
+  font-size: 17px;
+}
+
+/**************ETHEREUM************/
+.buttom-1{
+  margin-top: 0;
+  width: 40%;
+  float: left;
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+.ethereum{
+  color: hsl(178, 100%, 50%);
+  text-align: left;
+}
+.ethereum-icon{
+
+  float: left;
+  margin-right: 10px;
+}
+
+/*********************CLOCK****************/
+.inside-clock{
+margin-left: 10px;
+}
+
+.clock-icon{
+  float: left;
+  margin-right: 10px;
+}
+.timer{
+  text-align: left;
+}
+
+.avatar{
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 999em;
+  border-color: White;
+  margin-left: 30px;
+  margin-right: 20px;
+  height: 28px;
+  width: 28px;
+  float: left;
+
+}
+
+.credits{
+  text-align: left;
+}
+
+.name{
+  color: white;
+}
+
+.name:hover{
+  color:hsl(178, 100%, 50%);
+}
